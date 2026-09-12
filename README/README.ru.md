@@ -1,3 +1,6 @@
+<img width="1132" height="995" alt="2026-09-12_065525" src="https://github.com/user-attachments/assets/4cd51d13-746a-419f-ac74-fdbea5345715" />
+
+
 # RegHive
 
 Плагин Lister (WLX) для Total Commander, который читает **сырые, автономные
