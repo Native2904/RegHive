@@ -1,7 +1,7 @@
 [plugininstall]
-type=wlx
 description=RegHive - Viewer fuer offline Windows-Registry-Hive-Dateien
+type=wlx
 file=reghive.wlx64
 file=reghive.wlx
-defaultdir=%COMMANDER_PATH%\Plugins\wlx\RegHive
+defaultdir=RegHive
 version=0.1
